@@ -1,0 +1,15 @@
+MySQL is a popular relational database management system.
+
+It supports transactions, indexing, foreign keys, and SQL queries.
+
+MySQL uses the InnoDB storage engine to support ACID-compliant transactions.
+
+Atomicity ensures that transactions are completed fully or rolled back.
+
+Consistency maintains database integrity through constraints and rules.
+
+Isolation controls the visibility of changes between concurrent transactions.
+
+Durability ensures that committed changes persist even after system crashes.
+
+PostgreSQL and MySQL both support relational data storage, indexing, and transactional operations.
